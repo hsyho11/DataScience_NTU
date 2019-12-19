@@ -1,0 +1,24 @@
+genre_glob = {'Asia':['k-pop','c-pop','mandopop','anime','k-indie','chinese indie','anime score','mainland chinese pop',
+                      'chinese hip hop','k-hop'], 
+               'Europe':['chillhop','electropop','lo-fi beats','baroque','acoustic pop','art pop'],
+               'America':['pop','alternative r&b','contemporary country','bass trap','alternative hip hop','chamber pop',
+                         'hip hop','acoustic pop','canadian pop','latin','art pop'],
+               'Oceania':['australian pop'],
+               'Other':['none','dance pop','background music','big room','classical','calming instrumental','boy band',
+                        'compositional ambient','sleep','focus','bebop','cali rap']}
+
+genre_asia = {'Madarin':['c-pop','mandopop','chinese indie','chinese hip hop','mainland chinese pop'],
+            'Taiwan':['taiwan pop','taiwan hip hop','taiwanese pop','taiwan singer-songwriter','taiwan indie'],
+            'China':['c-pop','mandopop','chinese indie','mainland chinese pop','chinese hip hop'],
+            'Hong-kong':['c-pop','mandopop','chinese indie','chinese hip hop'],
+            'Japan':['anime','anime score'],
+            'Korea':['k-pop','k-indie','k-hop']}
+
+genre_america = {'North-America':['pop','adult standards','alternative r&b','contemporary country','bass trap',
+                                'alternative hip hop','hip hop','art pop'],
+               'Canada':['canadian pop'],
+               'South-America':['latin']}
+
+genre_europe = {'England':['electropop','lo-fi beats','art pop'],
+              'Netherlands':['chillhop'],
+              'Itali':['baroque']}
